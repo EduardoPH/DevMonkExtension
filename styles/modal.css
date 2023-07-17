@@ -1,0 +1,85 @@
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  right: 38px;
+  top: 95px;
+  width: 300px;
+  height: auto;
+  max-height: 600px;
+  
+  overflow: auto;
+  color: #fff;
+  font-family: Poppins;
+  border: 1px solid rgb(121, 121, 121);
+
+}
+
+.modal-content {
+  position: relative;
+  justify-content: space-around;
+  background: linear-gradient(295deg, rgb(23, 23, 23) 0%, rgb(44, 43, 43) 100%);
+  padding:25px 20px 20px 20px;
+  width: 100%;
+  height: 100%;
+}
+
+.close {
+  position: absolute;
+  color: #aaa;
+  font-size: 28px;
+  top: 0px;
+  right: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.close:hover,
+.close:focus {
+  color: rgba(76, 75, 75, 0.428);;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#ex-page-name {
+  color: #d3c314;
+}
+
+.ex-topic {
+  color: #ffffff;
+  font-weight: bolder;
+  font-family: Poppins-bold;
+}
+
+.ex-topic-modal {
+  margin-top: 8px;
+}
+
+.ex-topic-value {
+  margin-left: 7px;
+  color: #c0c0c0;
+}
+
+.ex-tempo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.ex-clock {
+  width: 15px;
+}
+
+.ex-box-task, .ex-box-task span {
+  display: flex;
+  flex-direction: row;
+}
+
+.ex-box-task {
+  width: 70px;
+  justify-content: space-around;
+}
+
+.ex-box-task > span > img {
+  margin-right: 8px;
+}

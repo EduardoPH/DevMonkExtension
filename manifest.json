@@ -1,0 +1,25 @@
+{
+  "name": "Get Elements From Page",
+  "version": "1.0",
+  "description": "An extension that can get elements from a page.",
+  "permissions": ["tabs", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": [
+    "https://devmonk.com.br/*"
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["/styles/modal.css", "/pages/modal.html"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://devmonk.com.br/conteudo/cla/*/espiral/*/lista"],
+      "js": ["scripts/timeScript.js", "scripts/notion.js"]
+    }
+  ],
+  "manifest_version": 3
+}
