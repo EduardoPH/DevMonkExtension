@@ -1,6 +1,8 @@
 # DevMonkExtension
 
-Este projeto objetiva falicitar o gerenciamento de tempo na plataforma via extenção de navegador
+Este projeto objetiva falicitar o gerenciamento de tempo na plataforma via extenção de navegador <br/>
+
+Vale lembrar que esse projeto foi feito para fins pedagógicos e qualquer modificação com intenções maliciosas será de resposabiliade pessoal.
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
