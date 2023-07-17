@@ -15,7 +15,7 @@ Este projeto objetiva falicitar o gerenciamento de tempo na plataforma via exten
 
 Clone o repositório com ```https://github.com/EduardoPH/DevMonkExtension```
 
-Para rodar o projeto, abra as configurações de entenção do seu navegador e importe a extenção no formato "descompactada" ```index.html```
+Para rodar o projeto, abra as configurações de entenção do seu navegador e importe a extenção no formato "descompactada"
 
 ### Páginas em que a extensão é ativada
 - Conteúdo
