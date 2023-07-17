@@ -1,7 +1,7 @@
 {
-  "name": "Get Elements From Page",
+  "name": "DevMonkExtension",
   "version": "1.0",
-  "description": "An extension that can get elements from a page.",
+  "description": "Ajuda a gerenciar seu tempo e tarefas na plataforma.",
   "permissions": ["tabs", "scripting"],
   "background": {
     "service_worker": "background.js"
