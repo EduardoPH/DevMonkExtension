@@ -8,7 +8,9 @@ Este projeto objetiva falicitar o gerenciamento de tempo na plataforma via exten
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </p>
 
-![image](https://github.com/EduardoPH/DevMonkExtension/assets/88357842/fec453f3-af67-4e4c-92df-c7b267ca1f14)
+<div align="center">
+  <img src="https://github.com/EduardoPH/DevMonkExtension/assets/88357842/7eec796d-9652-43d2-8492-44e9faa97ba2" alt="Descrição da imagem">
+</div>
 
 
 ## Instalação
